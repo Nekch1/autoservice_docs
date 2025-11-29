@@ -1,5 +1,5 @@
 ## Навигация
-[Главная](../README.md) | [Установка](../setup/installation.md) | [Требования](../setup/requirements.md) | [Запись](../features/booking.md) | [Профиль](../features/profile.md)
+[Главная](./README.md) | [Установка](./setup/installation.md) | [Требования](./setup/requirements.md) | [Запись](./features/booking.md) | [Профиль](./features/profile.md)
 
 # История обслуживания
 
