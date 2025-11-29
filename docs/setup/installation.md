@@ -1,5 +1,5 @@
 ## Навигация
-[Главная](./README.md) | [Требования](./setup/requirements.md) | [Запись](./features/booking.md) | [История обслуживания](./features/service_history.md) | [Профиль](./features/profile.md)
+[Главная](README.md) | [Требования](setup/requirements.md) | [Запись](features/booking.md) | [История обслуживания](features/service_history.md) | [Профиль](features/profile.md)
 
 # Установка приложения
 
@@ -7,7 +7,7 @@
 
 ## Шаги установки
 
-1. Скачайте приложение с [официального сайта](https://example.com).
+1. Скачайте приложение с [официального сайта](https://github.com/Nekch1/CarService_Django).
 2. Разархивируйте файл.
 3. Запустите установку.
 
